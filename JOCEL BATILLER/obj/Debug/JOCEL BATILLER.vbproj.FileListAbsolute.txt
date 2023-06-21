@@ -1,0 +1,12 @@
+c:\users\administrator\documents\visual studio 2015\Projects\JOCEL BATILLER\JOCEL BATILLER\bin\Debug\JOCEL BATILLER.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\JOCEL BATILLER\JOCEL BATILLER\bin\Debug\JOCEL BATILLER.exe
+c:\users\administrator\documents\visual studio 2015\Projects\JOCEL BATILLER\JOCEL BATILLER\bin\Debug\JOCEL BATILLER.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\JOCEL BATILLER\JOCEL BATILLER\bin\Debug\JOCEL BATILLER.xml
+c:\users\administrator\documents\visual studio 2015\Projects\JOCEL BATILLER\JOCEL BATILLER\obj\Debug\JOCEL BATILLER.vbprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\JOCEL BATILLER\JOCEL BATILLER\obj\Debug\JOCEL_BATILLER.Form1.resources
+c:\users\administrator\documents\visual studio 2015\Projects\JOCEL BATILLER\JOCEL BATILLER\obj\Debug\JOCEL_BATILLER.Form2.resources
+c:\users\administrator\documents\visual studio 2015\Projects\JOCEL BATILLER\JOCEL BATILLER\obj\Debug\JOCEL_BATILLER.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\JOCEL BATILLER\JOCEL BATILLER\obj\Debug\JOCEL BATILLER.vbproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\JOCEL BATILLER\JOCEL BATILLER\obj\Debug\JOCEL BATILLER.exe
+c:\users\administrator\documents\visual studio 2015\Projects\JOCEL BATILLER\JOCEL BATILLER\obj\Debug\JOCEL BATILLER.xml
+c:\users\administrator\documents\visual studio 2015\Projects\JOCEL BATILLER\JOCEL BATILLER\obj\Debug\JOCEL BATILLER.pdb
